@@ -1,4 +1,6 @@
 # Prediction of Heart Diseases using Machine Learning  
+View the code [here](https://nbviewer.jupyter.org/github/kp-prajwal/Heart-Disease-Classifier/blob/master/HeartDiseaseClassifier.ipynb)
+
 A machine learning model is capable of predicting whether or not someone has heart disease based on their medical attributes.  
 The procedure is as follows :  
 
